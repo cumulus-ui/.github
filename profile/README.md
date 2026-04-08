@@ -2,11 +2,21 @@
 
 Web Components inspired by [Cloudscape Design System](https://cloudscape.design). Built with [Lit](https://lit.dev), SSR-ready, no React runtime.
 
-- [Components](https://github.com/cumulus-ui/components): web components with integration, visual, and accessibility tests
-- [Docs](https://cumulus-ui.github.io): live previews and API reference
-- [Styles](https://github.com/cumulus-ui/styles): design tokens, fonts, and component CSS
-- [Design Tokens](https://github.com/cumulus-ui/design-tokens): CSS custom properties and JS values
+![Hello from Cumulus](https://raw.githubusercontent.com/cumulus-ui/.github/main/profile/green-button.png)
 
 ```bash
 npm install @cumulus-ui/components @cumulus-ui/styles
 ```
+
+```html
+<cs-button variant="primary">Hello from Cumulus</cs-button>
+
+<style>
+  cs-button {
+    --color-background-button-primary-default-vdt0fu: #037f0c;
+    --color-background-button-primary-hover-mo85i6: #02610a;
+  }
+</style>
+```
+
+[Docs and live previews](https://cumulus-ui.github.io)
