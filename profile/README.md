@@ -6,10 +6,6 @@ Web Components inspired by [Cloudscape Design System](https://cloudscape.design)
 npm install @cumulus-ui/components @cumulus-ui/styles
 ```
 
-```html
-<cs-badge color="blue">Cumulus UI</cs-badge>
-```
-
-![Cumulus UI](https://raw.githubusercontent.com/cumulus-ui/.github/main/profile/badge.png)
+![Cumulus UI](https://raw.githubusercontent.com/cumulus-ui/.github/main/profile/radio.png)
 
 [Docs and live previews](https://cumulus-ui.github.io)
