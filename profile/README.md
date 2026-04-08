@@ -6,6 +6,6 @@ Web Components inspired by [Cloudscape Design System](https://cloudscape.design)
 npm install @cumulus-ui/components @cumulus-ui/styles
 ```
 
-![Cumulus UI](https://raw.githubusercontent.com/cumulus-ui/.github/main/profile/radio.png)
+<img src="https://raw.githubusercontent.com/cumulus-ui/.github/main/profile/radio.png" width="300" alt="Cumulus UI">
 
 [Docs and live previews](https://cumulus-ui.github.io)
